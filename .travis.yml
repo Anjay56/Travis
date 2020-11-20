@@ -1,7 +1,6 @@
 language: csharp
 os: windows
-mono: 
- - 3.10.0
+mono: none
 dotnet: 3.1.200
 before_install:
  - cd TestingTravis
