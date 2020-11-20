@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Final Test\\TestingTravis\\Test\\Test.csproj": {}
+    "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\Final Test\\TestingTravis\\TestingTravis\\TestingTravis.csproj": {
+    "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\TestingTravis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Final Test\\TestingTravis\\TestingTravis\\TestingTravis.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\TestingTravis.csproj",
         "projectName": "TestingTravis",
-        "projectPath": "D:\\Final Test\\TestingTravis\\TestingTravis\\TestingTravis.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\TestingTravis.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Final Test\\TestingTravis\\TestingTravis\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "D:\\Final Test\\TestingTravis\\Test\\Test.csproj": {
+    "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Final Test\\TestingTravis\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\Final Test\\TestingTravis\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Final Test\\TestingTravis\\Test\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Final Test\\TestingTravis\\TestingTravis\\TestingTravis.csproj": {
-                "projectPath": "D:\\Final Test\\TestingTravis\\TestingTravis\\TestingTravis.csproj"
+              "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\TestingTravis.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\TestingTravis\\TestingTravis.csproj"
               }
             }
           }
