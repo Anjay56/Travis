@@ -1,0 +1,13 @@
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.exe
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.deps.json
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.runtimeconfig.json
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.runtimeconfig.dev.json
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.dll
+D:\Final Test\TestingTravis\TestingTravis\bin\Debug\netcoreapp3.1\TestingTravis.pdb
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.csprojAssemblyReference.cache
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.AssemblyInfoInputs.cache
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.AssemblyInfo.cs
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.csproj.CoreCompileInputs.cache
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.dll
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.pdb
+D:\Final Test\TestingTravis\TestingTravis\obj\Debug\netcoreapp3.1\TestingTravis.genruntimeconfig.cache
