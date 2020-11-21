@@ -5,5 +5,5 @@ install:
   - nuget install NUnit.Console -OutputDirectory testrunner
 script:
   - msbuild /p:Configuration=Debug TestingTravis.sln
-  - ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
+  - mono ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
 
