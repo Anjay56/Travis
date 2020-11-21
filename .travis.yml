@@ -1,8 +1,8 @@
 language: csharp
 script:
-  - xbuild /p:Configuration=Debug TestingTravis.sln
+  - xbuild /p:Configuration=netcoreapp3.1 TestingTravis.sln
 before_install:
-  - sudo apt-get install nunit-console
+  - sudo apt-get install nunit-console --version 3.9.0
 before_script:
   - nuget restore TestingTravis.sln
 after_script:
