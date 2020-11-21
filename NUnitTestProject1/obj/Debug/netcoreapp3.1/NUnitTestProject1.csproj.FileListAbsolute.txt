@@ -1,8 +1,5 @@
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\TestingTravis.exe
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
-C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
-C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.dll
-C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.deps.json
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.runtimeconfig.json
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.runtimeconfig.dev.json
@@ -97,5 +94,6 @@ C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
-C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.netstandard.dll
+C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
