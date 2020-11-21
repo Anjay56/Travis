@@ -7,4 +7,5 @@ script:
   - choco install dotnetscore-sdk
   - dotnet --version
   - dotnet restore 
+  - dotnet test NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
 
