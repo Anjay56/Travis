@@ -98,3 +98,4 @@ C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
 C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\ASUS\Pictures\FinalTravis\Travis\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.exe

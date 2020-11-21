@@ -1,16 +1,11 @@
-using NUnit.Framework;
-using TestingTravis;
-
 namespace NUnitTestProject1
 {
+    using NUnit.Framework;
+    using TestingTravis;
+
+    [TestFixture]
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-            
-        }
-
         [Test]
         public void Test1()
         {
