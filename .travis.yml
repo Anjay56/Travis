@@ -1,9 +1,10 @@
 language: csharp
-solution: TestingTravis.sln
-install:
-  - nuget restore TestingTravis.sln
-  - nuget install NUnit.Console -OutputDirectory testrunner
+mono: none
+dist: xenial
+dotnet: 3.1.200
+
 script:
-  - msbuild /p:Configuration=Debug TestingTravis.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.11.1/tools/nunit3-console.exe ./NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
+  - dotnet restore 
+  - msbuild
+  - dotnet test NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
 
