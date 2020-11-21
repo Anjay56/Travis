@@ -1,14 +1,9 @@
 language: csharp
-mono: 
- - latest
- - 3.10.0
- - 3.9.0
- - 3.8.0
 solution: TestingTravis.sln
 install:
   - nuget restore TestingTravis.sln
   - nuget install NUnit.Console -OutputDirectory testrunner
 script:
   - msbuild /p:Configuration=Debug TestingTravis.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.*/tools/nunit3-console.exe ./NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
+  - mono ./testrunner/NUnit.ConsoleRunner/tools/nunit3-console.exe ./NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
 
