@@ -4,8 +4,8 @@ mono: none
 dist: xenial
 
 script:
-  - choco install dotnetscore-sdk
+  - choco install dotnetcore-sdk
   - dotnet --version
   - dotnet restore 
-  - dotnet test NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
+  - dotnet test NUnitTestProject1/NUnitTestProject1.csproj
 
