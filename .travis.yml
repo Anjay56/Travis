@@ -1,11 +1,11 @@
 language: csharp
+mono: none
+dotnet: 2.0.0
+
+install:
+  - dotnet restore 
+
 script:
-  - xbuild /p:Configuration=netcoreapp3.1 TestingTravis.sln
-before_install:
-  - sudo apt-get install nunit-console --version 3.9.0
-before_script:
-  - nuget restore TestingTravis.sln
-after_script:
-  - nunit-console NUnitTestProject1/bin/Debug/netcoreapp3.1/NUnitTestProject1.dll
-sudo: required
+  - dotnet build 
+  - dotnet test NUnitTestProject1/NUnitTestProject1.csproj
 
