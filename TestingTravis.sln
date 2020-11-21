@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{D6DDA2AB-D29D-4462-BE6D-2BC4F85DF88E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{AA3E0CEB-465C-4C20-829D-D710CE7480F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{726D456C-FE0F-4DD0-997C-CEC3F5E84EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726D456C-FE0F-4DD0-997C-CEC3F5E84EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726D456C-FE0F-4DD0-997C-CEC3F5E84EC3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D6DDA2AB-D29D-4462-BE6D-2BC4F85DF88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6DDA2AB-D29D-4462-BE6D-2BC4F85DF88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6DDA2AB-D29D-4462-BE6D-2BC4F85DF88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6DDA2AB-D29D-4462-BE6D-2BC4F85DF88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3E0CEB-465C-4C20-829D-D710CE7480F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3E0CEB-465C-4C20-829D-D710CE7480F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3E0CEB-465C-4C20-829D-D710CE7480F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3E0CEB-465C-4C20-829D-D710CE7480F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
