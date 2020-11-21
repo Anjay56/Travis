@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "41mbQ6p1/T9xze/leE32VjBvfmEl833pu3rbQj7D6CbTQk8Qp4kSrRRAeQF1G8UuTJ1C0VM/S8er7qDYQn4Q2w==",
+  "dgSpecHash": "7ET8Bbce8QjsDmx2pLKQjEo6VkqwX/nZcOG9++1H7Wkq/zcFPvuNNlG3F/+iv6oBMH4GsJWxefas3Do6++mR3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Pictures\\FinalTravis\\Travis\\NUnitTestProject1\\NUnitTestProject1.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.9.0\\nunit.3.9.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\runtime.native.system.io.compression\\4.1.0\\runtime.native.system.io.compression.4.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\runtime.native.system.net.http\\4.0.1\\runtime.native.system.net.http.4.0.1.nupkg.sha512",
