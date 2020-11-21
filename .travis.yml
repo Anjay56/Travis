@@ -1,5 +1,8 @@
 language: csharp
-os: windows
+mono: 
+ - 3.10.0
+ - 3.9.0
+ - 3.8.0
 solution: TestingTravis.sln
 install:
   - nuget restore TestingTravis.sln
